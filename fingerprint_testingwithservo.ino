@@ -61,7 +61,7 @@ Serial.begin(9600);
     while (1) { delay(1); }
   } 
 Serial.begin(9600);
-pinMode(9, OUTPUT); //FingerPrint
+pinMode(9, OUTPUT); //Lock Mech
 pinMode(12,OUTPUT); //Green LED
 pinMode(13,OUTPUT); //Red LED
 delay(15);
