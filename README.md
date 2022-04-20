@@ -25,7 +25,13 @@ Upload the arduino file into an Arduino Uno
 
 Connect Pins 2-8 to the keypad
 
-Connet Pins 9 to the 12V Solenoid
+Connet Pins 9 to the Signal Connector on the Relay
+
+Connect the Relay Positive Output to the Solinoid Positive
+
+Connect the 12V powersupply to the Common of the Solenoid
+
+Connect the Solenoid Negative to Power Supply Ground
 
 Connect Pin 10 to Green wire (RX) from the Fingerprint Sensor
 
