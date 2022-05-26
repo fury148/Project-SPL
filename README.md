@@ -41,7 +41,7 @@ Connect Pin 12 to the Green LED with a resistor
 
 Connect Pin 13 to the Red LED with a resistor
 
-
+Upload FinalwithLCDSOLANDENROL.ino to Arduino Uno
 # OPTIONAL
 
 3D print all files in 3D print files
